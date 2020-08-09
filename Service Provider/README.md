@@ -1,1 +1,1 @@
-Proxy server program acts as a brige for assigning(connecting) each client process with a service it need indirectly ,i.e. without establishing actual socket coonnection .
+Server creates a unique process for first time if a client request that service with that specific service number,after that the server process listens on the same socket as of server and continue to service more number of clients which require that service.
