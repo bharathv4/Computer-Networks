@@ -1,0 +1,1 @@
+Sending ARP reply from a raw socket at ethernet layer by filling targeted person's IP address with your Mc  address as a pair to recieve his internet packets.For this to happen both should be connected in a same LAN.
